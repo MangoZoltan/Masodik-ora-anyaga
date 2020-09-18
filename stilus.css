@@ -1,0 +1,38 @@
+html{
+    background-color: #fff;
+    color: #002200;
+}
+body{
+    background-color: #DDFFDD;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 8px #333;
+    margin-bottom: 50PX;
+}
+h1{
+    text-align: center;
+}
+div img{
+    width: 125px;
+    float: right;
+}
+div{
+    clear: both;
+}
+li{
+    
+}
+#behuzas{
+    padding-left: 40px;
+}
+#teszt{
+    width: 400px;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+}
+.cim{
+    font-style: 25px;
+    font-weight: bold;
+}
